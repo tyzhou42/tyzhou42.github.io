@@ -76,4 +76,6 @@ I currently collaborate with faculty at CMU [Tepper School of Business](https://
 
 - Email: [tzhou3@andrew.cmu.edu](mailto:tzhou3@andrew.cmu.edu)
 - GitHub: [@tyzhou42](https://github.com/tyzhou42)
-<!-- TODO: add Google Scholar / ORCID / Twitter / LinkedIn once ready -->
+- Google Scholar: [Tianyang Zhou](https://scholar.google.com/citations?user=dmgL6coAAAAJ&hl=en)
+- ORCID: [0009-0006-6122-7745](https://orcid.org/0009-0006-6122-7745)
+<!-- TODO: add Twitter / LinkedIn if desired -->

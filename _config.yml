@@ -32,10 +32,10 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :  # TODO: add Google Scholar profile URL when created
+  googlescholar    : "https://scholar.google.com/citations?user=dmgL6coAAAAJ&hl=en"
   inspire-hep      :
   impactstory      :
-  orcid            :  # TODO: register ORCID and add URL
+  orcid            : "https://orcid.org/0009-0006-6122-7745"
   semantic         :
   ssrn             :
   pubmed           :
@@ -148,8 +148,8 @@ social:
   name                   : *name
   links:
     - "https://github.com/tyzhou42"
-    # - "https://scholar.google.com/citations?user=YOUR_ID"  # TODO: add when Scholar profile is created
-    # - "https://orcid.org/YOUR_ORCID"                       # TODO: add when ORCID is registered
+    - "https://scholar.google.com/citations?user=dmgL6coAAAAJ&hl=en"
+    - "https://orcid.org/0009-0006-6122-7745"
 
 
 # Analytics
