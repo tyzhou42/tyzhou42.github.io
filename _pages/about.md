@@ -10,17 +10,11 @@ redirect_from:
 
 <a id="about"></a>
 
-I am a first-year PhD student at the [Heinz College](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/) and Prof. [Pedro Ferreira](https://www.heinz.cmu.edu/faculty-research/profiles/ferreira-pedro). <!-- TODO: confirm Pedro Ferreira profile URL -->
+I am a first-year PhD student in **Information Systems and Management** at the [Heinz College](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
-My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their deployment in **high-stakes domains** such as finance and human mobility modeling. I approach these problems across multiple levels of model access:
+My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a focus on prompt optimization, structured rule learning, and reinforcement learning for trustworthy LLM behavior. I am also interested in deploying LLMs in **high-stakes domains** such as finance.
 
-- **Black-box** — output monitoring with diverse metrics and anomaly detectors; optimization-based pipelines that let LLMs identify and self-correct errors.
-- **White-box** — probing internal activations to detect anomalous representations, and developing steering mechanisms that intervene on model behavior at inference time.
-- **Training-time** — supervised fine-tuning and reinforcement learning to more fundamentally reshape model behavior for domain-specific safety and reliability requirements.
-
-I currently collaborate with faculty at CMU [Tepper School of Business](https://www.cmu.edu/tepper/) on using LLMs to extract interpretable insights from financial analyst reports.
-
-<!-- TODO: add a sentence about pre-PhD background once you tell me your undergrad school + years -->
+Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and was an international guest student at the [University of Pennsylvania](https://www.upenn.edu/). I previously worked with Prof. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/) (Georgia Tech) on non-stationary bandit algorithms and Prof. [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/) (Penn) on calibrated LLM long-form QA.
 
 <hr />
 
@@ -28,11 +22,8 @@ I currently collaborate with faculty at CMU [Tepper School of Business](https://
 
 ## News
 
-<!-- TODO: replace with real dated items as things happen -->
-
-- **May 2026** — Submitted my first-author paper *"From Rules to Reasoning: Scalable and Interpretable Complex Text Classification with LLMs"*.
 - **Apr 2026** — Our co-authored survey *"Confidence as Control: A Survey of Confidence Utilization in Large Language Models"* is under review at TMLR.
-- **Aug 2025** — Started my PhD at CMU Heinz, advised by Prof. Leman Akoglu and Prof. Pedro Ferreira.
+- **Aug 2025** — Started my PhD at CMU Heinz, advised by Prof. Leman Akoglu.
 
 <hr />
 
@@ -64,9 +55,11 @@ I currently collaborate with faculty at CMU [Tepper School of Business](https://
 
 ## Education
 
-- **Ph.D. in [TODO: program name]**, Carnegie Mellon University — Heinz College, 2025 –
-  - Advisors: Prof. Leman Akoglu, Prof. Pedro Ferreira
-- **B.[TODO: degree, e.g. Eng / Sc]**, [TODO: undergraduate institution], [TODO: years]
+- **Ph.D. in Information Systems and Management**, Carnegie Mellon University — Heinz College, 2025 – present
+  - Advisor: Prof. Leman Akoglu
+- **B.A. in Economics and Finance (with Distinction)**, Tsinghua University, 2021 – 2025
+  - Minor in Statistics
+- **International Guest Student**, University of Pennsylvania, Fall 2023
 
 <hr />
 
@@ -78,4 +71,4 @@ I currently collaborate with faculty at CMU [Tepper School of Business](https://
 - GitHub: [@tyzhou42](https://github.com/tyzhou42)
 - Google Scholar: [Tianyang Zhou](https://scholar.google.com/citations?user=dmgL6coAAAAJ&hl=en)
 - ORCID: [0009-0006-6122-7745](https://orcid.org/0009-0006-6122-7745)
-<!-- TODO: add Twitter / LinkedIn if desired -->
+<!-- TODO: add LinkedIn once URL provided; Twitter optional -->
