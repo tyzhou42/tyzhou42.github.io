@@ -60,7 +60,6 @@ Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [
   - Advisor: Prof. Leman Akoglu
 - **B.A. in Economics and Finance (with Distinction)**, Tsinghua University, 2021 – 2025
   - Minor in Statistics
-- **International Guest Student**, University of Pennsylvania, Fall 2023
 
 <hr />
 
