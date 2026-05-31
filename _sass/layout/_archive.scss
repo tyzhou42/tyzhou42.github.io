@@ -295,6 +295,31 @@
   }
 }
 
+/* Small inline buttons for each paper's links (arXiv / Code / Page / etc.) */
+.pub-links {
+  margin: 0.4em 0 0 0;
+  line-height: 2;
+
+  .pub-link {
+    display: inline-block;
+    margin: 0 0.25em 0.25em 0;
+    padding: 0.1em 0.7em;
+    font-size: 0.85em;
+    line-height: 1.5;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color: inherit;
+    text-decoration: none;
+    transition: background-color 0.15s, border-color 0.15s;
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.04);
+      border-color: rgba(0, 0, 0, 0.35);
+      text-decoration: none;
+    }
+  }
+}
+
 /* Full-size figure at top of publication detail page */
 .pub-detail-figure {
   margin: 0 0 1.5em 0;

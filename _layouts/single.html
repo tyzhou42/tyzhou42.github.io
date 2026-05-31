@@ -61,30 +61,20 @@ layout: default
         {% endif %}
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl and page.slidesurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.citation and page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.paperurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
-        {% elsif page.citation and page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.slidesurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.slidesurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.paperurl and page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation and page.bibtexurl %}
-          <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
-        {% elsif page.citation %}
+        {% if page.citation %}
           <p style="font-size: smaller">{{ page.citation }}</p>
-        {% elsif page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
-        {% elsif page.bibtexurl %}
-          <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
+        {% endif %}
+
+        {% if page.arxiv or page.paperurl or page.pdf or page.code or page.page or page.slidesurl or page.bibtexurl %}
+        <p class="pub-links">
+          {% if page.arxiv %}<a class="pub-link" href="{{ page.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+          {% if page.paperurl %}<a class="pub-link" href="{{ page.paperurl }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+          {% if page.pdf %}<a class="pub-link" href="{{ page.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+          {% if page.code %}<a class="pub-link" href="{{ page.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+          {% if page.page %}<a class="pub-link" href="{{ page.page }}" target="_blank" rel="noopener">Page</a>{% endif %}
+          {% if page.slidesurl %}<a class="pub-link" href="{{ page.slidesurl }}" target="_blank" rel="noopener">Slides</a>{% endif %}
+          {% if page.bibtexurl %}<a class="pub-link" href="{{ page.bibtexurl }}" target="_blank" rel="noopener">BibTeX</a>{% endif %}
+        </p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
