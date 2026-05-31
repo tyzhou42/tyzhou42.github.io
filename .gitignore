@@ -21,3 +21,9 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Local avatar source files (not for publishing — only used to regenerate images/profile.jpg)
+/*.jpg
+/*.jpeg
+/*.png
+!/_site/**
