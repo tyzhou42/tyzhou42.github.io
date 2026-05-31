@@ -8,5 +8,6 @@ excerpt: "eXTC (eXplainable Text Classifier) — a 3-stage LLM pipeline (ruleboo
 date: 2026-05-27
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2605.29076"
+image: "/images/papers/extc-pipeline.jpg"
 citation: "<strong>Tianyang Zhou</strong>, Wenbo Chen, Pierre Jinghong Liang, Leman Akoglu."
 ---

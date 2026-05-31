@@ -243,3 +243,49 @@
     }
   }
 }
+
+/* ----------------------------------------------------------------------------
+   Publications: image-on-left layout (used by archive-single.html when the
+   collection is "publications" and the entry has an `image:` frontmatter).
+   ---------------------------------------------------------------------------- */
+
+.pub-item {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+
+  .pub-thumb {
+    flex: 0 0 240px;
+    max-width: 240px;
+
+    a, img {
+      display: block;
+      width: 100%;
+    }
+    img {
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      border-radius: 4px;
+      height: auto;
+    }
+  }
+
+  .pub-body {
+    flex: 1 1 0;
+    min-width: 0;
+
+    .archive__item-title {
+      margin-top: 0;
+    }
+  }
+
+  /* On small screens, stack vertically (image on top, text below) */
+  @include breakpoint(max-width 600px) {
+    flex-direction: column;
+    .pub-thumb {
+      flex: 1 1 auto;
+      max-width: 100%;
+    }
+  }
+}
