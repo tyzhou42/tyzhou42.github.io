@@ -28,7 +28,7 @@
 
     {% if post.collection == 'publications' and post.image %}
       <div class="pub-thumb">
-        <a href="{{ base_path }}{{ post.url }}"><img src="{{ post.image | prepend: base_path }}" alt=""></a>
+        <a href="{{ post.image | prepend: base_path }}" target="_blank" rel="noopener" title="Open figure"><img src="{{ post.image | prepend: base_path }}" alt=""></a>
       </div>
     {% endif %}
 
