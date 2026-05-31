@@ -58,7 +58,7 @@ Before CMU, I did my undergrad in Economics and Finance at [Tsinghua University]
 
 - **Ph.D. in Information Systems and Management**, Carnegie Mellon University — Heinz College, 2025 – present
   - Advisor: Prof. Leman Akoglu
-- **B.A. in Economics and Finance**, Tsinghua University, 2021 – 2025
+- **Bachelor of Economics and Finance**, Tsinghua University, 2021 – 2025
   - Minor in Statistics
 
 <hr />
