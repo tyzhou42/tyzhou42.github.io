@@ -20,7 +20,7 @@ repository               : "tyzhou42/tyzhou42.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Tianyang Zhou"
   pronouns         :
   bio              : "PhD Student at CMU Heinz College. LLM safety, interpretability, and reliability."
