@@ -10,11 +10,11 @@ redirect_from:
 
 <a id="about"></a>
 
-I am a first-year PhD student in **Information Systems and Management** at the [Heinz College](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
+I am Tianyang Zhou (周天阳 in Chinese), a first-year PhD student in **Information Systems and Management** at the [Heinz College](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
 My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a focus on prompt optimization, structured rule learning, and reinforcement learning for trustworthy LLM behavior. I am also interested in deploying LLMs in **high-stakes domains** such as finance.
 
-Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and was an international guest student at the [University of Pennsylvania](https://www.upenn.edu/). I previously worked with Prof. [Yao Xie](https://www2.isye.gatech.edu/~yxie77/) (Georgia Tech) on non-stationary bandit algorithms and Prof. [Weijie Su](https://statistics.wharton.upenn.edu/profile/suw/) (Penn) on calibrated LLM long-form QA.
+Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and was an international guest student at the [University of Pennsylvania](https://www.upenn.edu/).
 
 <hr />
 
