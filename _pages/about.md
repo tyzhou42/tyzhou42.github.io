@@ -14,7 +14,7 @@ I am Tianyang Zhou (周天阳 in Chinese), a first-year PhD student in **Informa
 
 My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their real-world deployment in high-stakes domains such as finance.
 
-Before CMU, I did my undergrad in Economics and Finance at [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a minor in Statistics.
+Before CMU, I completed my Bachelor of Economics and Finance at [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a minor in Statistics.
 
 <hr />
 
