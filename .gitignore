@@ -26,4 +26,5 @@ package-lock.json
 /*.jpg
 /*.jpeg
 /*.png
+/*.pdf
 !/_site/**
