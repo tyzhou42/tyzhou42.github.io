@@ -71,4 +71,5 @@ Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [
 - GitHub: [@tyzhou42](https://github.com/tyzhou42)
 - Google Scholar: [Tianyang Zhou](https://scholar.google.com/citations?user=dmgL6coAAAAJ&hl=en)
 - ORCID: [0009-0006-6122-7745](https://orcid.org/0009-0006-6122-7745)
-<!-- TODO: add LinkedIn once URL provided; Twitter optional -->
+- LinkedIn: [tianyang-zhou](https://www.linkedin.com/in/tianyang-zhou/)
+<!-- TODO: add Twitter/X if desired -->
