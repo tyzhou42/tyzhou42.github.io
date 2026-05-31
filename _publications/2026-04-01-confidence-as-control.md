@@ -9,5 +9,6 @@ date: 2026-04-01
 venue: ""
 paperurl: "https://www.researchgate.net/publication/401801705_Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models"
 image: "/images/papers/confidence-as-control.jpg"
+image_hero: "/images/papers/confidence-as-control-hero.jpg"
 citation: "Yubo Li, <strong>Tianyang Zhou</strong>, Xiaobin Shen, Yidi Miao, Rema Padman, Ramayya Krishnan."
 ---

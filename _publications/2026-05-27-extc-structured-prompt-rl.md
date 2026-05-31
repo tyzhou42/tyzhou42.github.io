@@ -9,5 +9,6 @@ date: 2026-05-27
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2605.29076"
 image: "/images/papers/extc-pipeline.jpg"
+image_hero: "/images/papers/extc-pipeline-hero.jpg"
 citation: "<strong>Tianyang Zhou</strong>, Wenbo Chen, Pierre Jinghong Liang, Leman Akoglu."
 ---

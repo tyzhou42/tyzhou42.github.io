@@ -27,8 +27,9 @@
     {% endif %}
 
     {% if post.collection == 'publications' and post.image %}
+      {% assign pub_hero = post.image_hero | default: post.image %}
       <div class="pub-thumb">
-        <a href="{{ post.image | prepend: base_path }}" target="_blank" rel="noopener" title="Open figure"><img src="{{ post.image | prepend: base_path }}" alt=""></a>
+        <a href="{{ pub_hero | prepend: base_path }}" target="_blank" rel="noopener" title="Open figure"><img src="{{ post.image | prepend: base_path }}" alt="" loading="lazy"></a>
       </div>
     {% endif %}
 
