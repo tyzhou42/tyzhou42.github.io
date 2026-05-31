@@ -8,5 +8,5 @@ excerpt: "eXTC (eXplainable Text Classifier) — a 3-stage LLM pipeline (ruleboo
 date: 2026-05-27
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2605.29076"
-citation: "Tianyang Zhou, Wenbo Chen, Pierre Jinghong Liang, Leman Akoglu. (2026). &quot;Structured Prompt Optimization Meets Reinforcement Learning for Global and Local Interpretability over Complex Text.&quot; arXiv:2605.29076."
+citation: "<strong>Tianyang Zhou</strong>, Wenbo Chen, Pierre Jinghong Liang, Leman Akoglu."
 ---
