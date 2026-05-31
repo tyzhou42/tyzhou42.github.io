@@ -263,16 +263,13 @@
     a {
       display: block;
       width: 100%;
-      aspect-ratio: 3 / 2;        /* consistent boxy frame for all papers */
-      border: 1px solid rgba(0, 0, 0, 0.08);
-      border-radius: 4px;
-      overflow: hidden;
     }
     img {
       display: block;
       width: 100%;
-      height: 100%;
-      object-fit: cover;          /* fill the box (some edges cropped); detail page still shows full image */
+      height: auto;               /* natural aspect — no crop, no letterbox */
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      border-radius: 4px;
     }
   }
 
@@ -295,27 +292,37 @@
   }
 }
 
-/* Small inline buttons for each paper's links (arXiv / Code / Page / etc.) */
+/* Small inline pill buttons for each paper's links (arXiv / Code / Page / etc.) */
 .pub-links {
-  margin: 0.4em 0 0 0;
+  margin: 0.5em 0 0 0;
   line-height: 2;
 
   .pub-link {
     display: inline-block;
-    margin: 0 0.25em 0.25em 0;
-    padding: 0.1em 0.7em;
-    font-size: 0.85em;
-    line-height: 1.5;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
-    color: inherit;
+    margin: 0 0.35em 0.35em 0;
+    padding: 0.28em 0.85em;
+    font-size: 0.82em;
+    font-weight: 500;
+    line-height: 1.4;
+    background-color: #f4f4f4;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 14px;             /* pill shape */
+    color: #333;
     text-decoration: none;
-    transition: background-color 0.15s, border-color 0.15s;
+    transition: background-color 0.15s, border-color 0.15s, color 0.15s;
+
+    i {
+      margin-right: 0.35em;
+      opacity: 0.7;
+    }
 
     &:hover {
-      background-color: rgba(0, 0, 0, 0.04);
-      border-color: rgba(0, 0, 0, 0.35);
+      background-color: #e8e8e8;
+      border-color: rgba(0, 0, 0, 0.30);
+      color: #000;
       text-decoration: none;
+
+      i { opacity: 1; }
     }
   }
 }
