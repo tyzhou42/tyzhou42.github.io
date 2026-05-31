@@ -23,7 +23,7 @@ Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [
 ## News
 
 - **May 2026** — Released a first-author preprint, [*Structured Prompt Optimization Meets Reinforcement Learning for Global and Local Interpretability over Complex Text*](https://arxiv.org/abs/2605.29076).
-- **Apr 2026** — Our co-authored survey *"Confidence as Control: A Survey of Confidence Utilization in Large Language Models"* is under review.
+- **Apr 2026** — Co-authored a survey, *"Confidence as Control: A Survey of Confidence Utilization in Large Language Models."*
 - **Aug 2025** — Started my PhD at CMU Heinz, advised by Prof. Leman Akoglu.
 
 <hr />
