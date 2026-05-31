@@ -14,7 +14,7 @@ I am Tianyang Zhou (周天阳 in Chinese), a first-year PhD student in **Informa
 
 My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a focus on prompt optimization, structured rule learning, and reinforcement learning for trustworthy LLM behavior. I am also interested in deploying LLMs in **high-stakes domains** such as finance.
 
-Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), and was an international guest student at the [University of Pennsylvania](https://www.upenn.edu/).
+Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 <hr />
 
