@@ -12,7 +12,7 @@ redirect_from:
 
 I am Tianyang Zhou (周天阳 in Chinese), a first-year PhD student in **Information Systems and Management** at the [Heinz College](https://www.heinz.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
-My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their **real-world deployment** in **high-stakes domains** such as finance.
+My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their real-world deployment in high-stakes domains such as finance.
 
 Before CMU, I completed my B.A. in Economics and Finance (with Distinction) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
