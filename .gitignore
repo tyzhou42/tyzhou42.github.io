@@ -28,3 +28,4 @@ package-lock.json
 /*.png
 /*.pdf
 !/_site/**
+.claude/
