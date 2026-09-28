@@ -10,7 +10,7 @@ redirect_from:
 
 <a id="about"></a>
 
-I am Tianyang Zhou (周天阳 in Chinese), a first-year PhD student in **Information Systems and Management** at [Heinz College](https://www.heinz.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
+I am Tianyang Zhou (周天阳 in Chinese), a second-year PhD student in **Information Systems and Management** at [Heinz College](https://www.heinz.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
 My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their real-world deployment in high-stakes domains such as finance.
 
@@ -22,6 +22,7 @@ Before CMU, I completed my Bachelor of Economics and Finance at [Tsinghua Univer
 
 ## News
 
+- **Sep 2026** — Released a first-author preprint, [*When Less Compute Is More: Adaptive Early Exit Improves Pretrained Outlier Detection*](/files/early-exit.pdf).
 - **May 2026** — Released a first-author preprint, [*Structured Prompt Optimization Meets Reinforcement Learning for Global and Local Interpretability over Complex Text*](https://arxiv.org/abs/2605.29076).
 - **Mar 2026** — Co-authored a survey, [*Confidence as Control: A Survey of Confidence Utilization in Large Language Models*](https://www.researchgate.net/publication/401801705_Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models).
 - **Aug 2025** — Started my PhD at the [Heinz College](https://www.heinz.cmu.edu/), Carnegie Mellon University, advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
