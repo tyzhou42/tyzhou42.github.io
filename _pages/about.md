@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Tianyang Zhou — PhD student at CMU Heinz College. LLM safety, interpretability, and reliability."
+excerpt: "Tianyang Zhou — PhD student at CMU Heinz College. LLM safety, interpretability, and agents."
 author_profile: true
 redirect_from:
   - /about/
@@ -12,7 +12,7 @@ redirect_from:
 
 I am Tianyang Zhou (周天阳 in Chinese), a second-year PhD student in **Information Systems and Management** at [Heinz College](https://www.heinz.cmu.edu/), [Carnegie Mellon University](https://www.cmu.edu/), advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
-My research centers on the **safety, interpretability, and reliability of large language models (LLMs)**, with a particular focus on their real-world deployment in high-stakes domains such as finance.
+My research focuses on the **safety and interpretability of foundation models**, especially large language models (LLMs) and LLM agents, with a current focus on LLM guardrails and on building reliable agents for complex real-world tasks.
 
 Before CMU, I completed my Bachelor of Economics and Finance at [Tsinghua University](https://www.tsinghua.edu.cn/en/), with a minor in Statistics.
 
