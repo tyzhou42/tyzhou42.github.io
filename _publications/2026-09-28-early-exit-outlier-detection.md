@@ -7,7 +7,7 @@ permalink: /publication/2026-early-exit
 excerpt: "The first study of depth-adaptive early exit for pretrained outlier detection models. Exiting at an intermediate layer can improve detection by 4.7–7.3% on average, largely because deeper layers suffer from context pollution. We introduce rOUT, a plug-in router that picks a dataset-specific exit layer, recovering up to 45% of the oracle gain with up to 1.8× speedup."
 date: 2026-09-28
 venue: ""
-pdf: "/files/When%20Less%20Compute%20Is%20More.pdf"   # TODO: replace with arxiv: once the listing is live
+arxiv: "https://arxiv.org/abs/2609.32898"
 image: "/images/papers/early-exit.jpg"
 image_hero: "/images/papers/early-exit-hero.jpg"
 citation: "<strong>Tianyang Zhou</strong>, Leman Akoglu."
