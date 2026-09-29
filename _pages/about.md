@@ -24,7 +24,7 @@ Before CMU, I completed my Bachelor of Economics and Finance at [Tsinghua Univer
 
 - **Sep 2026** — Released a first-author preprint, [*When Less Compute Is More: Adaptive Early Exit Improves Pretrained Outlier Detection*](/files/When%20Less%20Compute%20Is%20More.pdf).
 - **May 2026** — Released a first-author preprint, [*Structured Prompt Optimization Meets Reinforcement Learning for Global and Local Interpretability over Complex Text*](https://arxiv.org/abs/2605.29076).
-- **Mar 2026** — Co-authored a survey, [*Confidence as Control: A Survey of Confidence Utilization in Large Language Models*](https://www.researchgate.net/publication/401801705_Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models).
+- **Mar 2026** — Co-authored a survey, [*Confidence as Control: A Survey of Confidence Utilization in Large Language Models*](https://kilthub.cmu.edu/articles/preprint/Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models/33990781?file=69396660).
 - **Aug 2025** — Started my PhD at the [Heinz College](https://www.heinz.cmu.edu/), Carnegie Mellon University, advised by Prof. [Leman Akoglu](https://www.andrew.cmu.edu/user/lakoglu/).
 
 <hr />

@@ -9,7 +9,7 @@ date: 2026-03-01
 venue: ""
 image: "/images/papers/confidence-as-control.jpg"
 image_hero: "/images/papers/confidence-as-control-hero.jpg"
-page: "https://www.researchgate.net/publication/401801705_Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models"
+page: "https://kilthub.cmu.edu/articles/preprint/Confidence_as_Control_A_Survey_of_Confidence_Utilization_in_Large_Language_Models/33990781?file=69396660"
 code: "https://github.com/yubol-bobo/awesome-llm-confidence"
 citation: "Yubo Li, <strong>Tianyang Zhou</strong>, Xiaobin Shen, Yidi Miao, Rema Padman, Ramayya Krishnan."
 ---
