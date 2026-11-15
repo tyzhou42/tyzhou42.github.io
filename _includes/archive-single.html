@@ -70,9 +70,10 @@
     
     {% if post.citation %}<p>{{ post.citation }}</p>{% endif %}
 
-    {% if post.arxiv or post.paperurl or post.pdf or post.code or post.page or post.slidesurl or post.bibtexurl %}
+    {% if post.arxiv or post.openreview or post.paperurl or post.pdf or post.code or post.page or post.slidesurl or post.bibtexurl %}
     <p class="pub-links">
       {% if post.arxiv %}<a class="pub-link" href="{{ post.arxiv }}" target="_blank" rel="noopener"><i class="ai ai-arxiv"></i>arXiv</a>{% endif %}
+      {% if post.openreview %}<a class="pub-link" href="{{ post.openreview }}" target="_blank" rel="noopener"><i class="fa fa-comments"></i>OpenReview</a>{% endif %}
       {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}" target="_blank" rel="noopener"><i class="fa fa-file-alt"></i>Paper</a>{% endif %}
       {% if post.pdf %}<a class="pub-link" href="{{ post.pdf }}" target="_blank" rel="noopener"><i class="fa fa-file-pdf"></i>PDF</a>{% endif %}
       {% if post.code %}<a class="pub-link" href="{{ post.code }}" target="_blank" rel="noopener"><i class="fab fa-github"></i>Repo</a>{% endif %}

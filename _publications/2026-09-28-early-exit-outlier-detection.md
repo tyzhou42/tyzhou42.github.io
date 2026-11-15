@@ -8,6 +8,7 @@ excerpt: "The first study of depth-adaptive early exit for pretrained outlier de
 date: 2026-09-28
 venue: ""
 arxiv: "https://arxiv.org/abs/2609.32898"
+openreview: "https://openreview.net/forum?id=4HiVB5eVlZ"
 image: "/images/papers/early-exit.jpg"
 image_hero: "/images/papers/early-exit-hero.jpg"
 citation: "<strong>Tianyang Zhou</strong>, Leman Akoglu."
